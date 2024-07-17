@@ -25,5 +25,6 @@ python tiktok_username_checker.py
 Notes
 Proxies are automatically rotated to avoid IP bans and rate limits.
 Adjust error handling and retry mechanisms in the script based on your requirements.
+I am not going to provide you with a wordlist you have to find that yourself.
 
 
